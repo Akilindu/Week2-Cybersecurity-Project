@@ -1,0 +1,22 @@
+WHATWEB SCAN – NETWORKWALKS.COM
+
+URL: http://networkwalks.com
+Status: 301 Moved Permanently
+Server: Apache
+IP Address: 192.232.216.135
+Country: United States
+Redirect: https://networkwalks.com/
+
+URL: https://networkwalks.com
+Status: 200 OK
+Server: Apache
+Website Title: Networkwalks Academy
+IP Address: 192.232.216.135
+Country: United States
+CMS: WordPress 7.1.4
+WordPress Download Manager: 3.3.76
+Bootstrap: 7.1.4
+jQuery: 3.7.1
+Email: info@networkwalks.com
+Google Tag Manager: Detected
+HTML5: Detected
